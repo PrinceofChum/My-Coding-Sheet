@@ -1,0 +1,1 @@
+https://practice.geeksforgeeks.org/problems/odd-or-even3618/1
